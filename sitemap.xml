@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://baixiaoyeer.github.io/about/index.html</loc>
+    <loc>https://baixiaoyeer.github.io/2024/08/28/hackgroup-glorysec-rong-yao-an-quan/</loc>
+    
+    <lastmod>2024-08-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://baixiaoyeer.github.io/about/index.html</loc>
     
     <lastmod>2024-08-12</lastmod>
     
@@ -11,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://baixiaoyeer.github.io/2024/08/12/hello-world/</loc>
+    <loc>https://baixiaoyeer.github.io/2024/08/12/hello-world/</loc>
     
     <lastmod>2024-08-12</lastmod>
     
@@ -21,12 +30,19 @@
   
 
   <url>
-    <loc>http://baixiaoyeer.github.io/</loc>
-    <lastmod>2024-08-13</lastmod>
+    <loc>https://baixiaoyeer.github.io/</loc>
+    <lastmod>2024-08-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://baixiaoyeer.github.io/tags/hackgroup/</loc>
+    <lastmod>2024-08-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 
   
