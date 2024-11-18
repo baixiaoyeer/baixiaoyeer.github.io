@@ -6,7 +6,7 @@
   <link href="https://baixiaoyeer.github.io/atom.xml" rel="self"/>
   
   <link href="https://baixiaoyeer.github.io/"/>
-  <updated>2024-11-05T05:38:16.796Z</updated>
+  <updated>2024-11-18T07:12:20.856Z</updated>
   <id>https://baixiaoyeer.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【NetVirusGroup】计算机病毒的前世今生：那些年我们一起中毒的日子</title>
+    <link href="https://baixiaoyeer.github.io/2024/11/17/%E3%80%90NetVirusGroup%E3%80%91%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%97%85%E6%AF%92%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F%EF%BC%9A%E9%82%A3%E4%BA%9B%E5%B9%B4%E6%88%91%E4%BB%AC%E4%B8%80%E8%B5%B7%E4%B8%AD%E6%AF%92%E7%9A%84%E6%97%A5%E5%AD%90/"/>
+    <id>https://baixiaoyeer.github.io/2024/11/17/%E3%80%90NetVirusGroup%E3%80%91%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%97%85%E6%AF%92%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F%EF%BC%9A%E9%82%A3%E4%BA%9B%E5%B9%B4%E6%88%91%E4%BB%AC%E4%B8%80%E8%B5%B7%E4%B8%AD%E6%AF%92%E7%9A%84%E6%97%A5%E5%AD%90/</id>
+    <published>2024-11-17T06:53:03.000Z</published>
+    <updated>2024-11-18T07:12:20.856Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2024/11/17/%E3%80%90NetVirusGroup%E3%80%91%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%97%85%E6%AF%92%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F%EF%BC%9A%E9%82%A3%E4%BA%9B%E5%B9%B4%E6%88%91%E4%BB%AC%E4%B8%80%E8%B5%B7%E4%B8%AD%E6%AF%92%E7%9A%84%E6%97%A5%E5%AD%90/1731913241239.png&quot; alt=&quot;1731913241239&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;序章：计算机病毒的诞生&quot;&gt;&lt;a href=&quot;#序章：计算机病毒的诞生&quot; class=&quot;headerlink&quot; title=&quot;序章：计算机病毒的诞生&quot;&gt;&lt;/a&gt;序章：计算机病毒的诞生&lt;/h2&gt;&lt;p&gt;计算机病毒，听起来像是从科幻小说里走出来的怪物，但事实上，它们的确存在，并且比我们想象的还要生动。当年，当你还在疯狂地把《超级玛丽》里的蘑菇踩个遍的时候，有一群计算机科学家已经在琢磨着怎么让“病毒”这个小妖精跑到你的电脑里来捣乱。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/2024/11/17/%E3%80%90NetVirusGroup%E3%80%91%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%97%85%E6%AF%92%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F%EF%BC%9A%E9%82%A3%E4%BA%9B%E5%B9%B4%E6%88%91%E4%BB%AC%E4%B8%80%E8%B5%B7%E4%B8%AD%E6%AF%92%E7%9A%84%E6%97%A5%E5%AD%90/1731913264467.png&quot; alt=&quot;1731913264467&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;第一章：早期的电脑病毒——从无恶意到恶作剧&quot;&gt;&lt;a href=&quot;#第一章：早期的电脑病毒——从无恶意到恶作剧&quot; class=&quot;headerlink&quot; title=&quot;第一章：早期的电脑病毒——从无恶意到恶作剧&quot;&gt;&lt;/a&gt;第一章：早期的电脑病毒——从无恶意到恶作剧&lt;/h2&gt;&lt;p&gt;1970年代，计算机病毒的概念刚刚萌芽，那时候还没有什么“黑客”这个词汇。早期的病毒主要是为了实验和探讨而设计的。&lt;/p&gt;
+&lt;p&gt;1982年，“Brain”病毒诞生，这个名字听起来有点炫酷，它是第一个被广泛传播的病毒，感染了IBM PC的引导扇区，让人们第一次感受到了“中毒”的滋味。那时的病毒开发者，或许并没有想到，他们的发明会在未来引发如此多的麻烦。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/2024/11/17/%E3%80%90NetVirusGroup%E3%80%91%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%97%85%E6%AF%92%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F%EF%BC%9A%E9%82%A3%E4%BA%9B%E5%B9%B4%E6%88%91%E4%BB%AC%E4%B8%80%E8%B5%B7%E4%B8%AD%E6%AF%92%E7%9A%84%E6%97%A5%E5%AD%90/1731913286051.png&quot; alt=&quot;1731913286051&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;第二章：90年代的病毒风云——从“小恶魔”到“大魔王”&quot;&gt;&lt;a href=&quot;#第二章：90年代的病毒风云——从“小恶魔”到“大魔王”&quot; class=&quot;headerlink&quot; title=&quot;第二章：90年代的病毒风云——从“小恶魔”到“大魔王”&quot;&gt;&lt;/a&gt;第二章：90年代的病毒风云——从“小恶魔”到“大魔王”&lt;/h2&gt;&lt;p&gt;90年代，计算机病毒开始进入公众视野。1992年的“Michelangelo”病毒，每年的3月6日会破坏计算机文件。这就像是个隐藏在系统中的“炸弹”，等着你的系统把它点燃。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="NetVirusGroup" scheme="https://baixiaoyeer.github.io/tags/NetVirusGroup/"/>
+    
+  </entry>
   
   <entry>
     <title>【HackGroup】KillNet-杀戮网</title>
