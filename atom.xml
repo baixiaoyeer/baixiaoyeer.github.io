@@ -6,7 +6,7 @@
   <link href="https://baixiaoyeer.github.io/atom.xml" rel="self"/>
   
   <link href="https://baixiaoyeer.github.io/"/>
-  <updated>2025-01-17T07:47:45.035Z</updated>
+  <updated>2025-05-04T01:51:18.082Z</updated>
   <id>https://baixiaoyeer.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【HackGroup】FunkSec-恐慌安全</title>
+    <link href="https://baixiaoyeer.github.io/2025/05/03/%E3%80%90HackGroup%E3%80%91FunkSec-%E6%81%90%E6%85%8C%E5%AE%89%E5%85%A8/"/>
+    <id>https://baixiaoyeer.github.io/2025/05/03/%E3%80%90HackGroup%E3%80%91FunkSec-%E6%81%90%E6%85%8C%E5%AE%89%E5%85%A8/</id>
+    <published>2025-05-03T01:14:47.000Z</published>
+    <updated>2025-05-04T01:51:18.082Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;1-引言&quot;&gt;&lt;a href=&quot;#1-引言&quot; class=&quot;headerlink&quot; title=&quot;1 引言&quot;&gt;&lt;/a&gt;1 &lt;strong&gt;引言&lt;/strong&gt;&lt;/h1&gt;&lt;p&gt;FunkSec(恐慌安全)，一个于2024年底迅速进入公众视野的网络犯罪组织，已成为网络安全领域一个引人注目的新兴威胁。本报告旨在基于现有开源情报，对FunkSec进行深入分析，揭示其全貌。&lt;/p&gt;
+&lt;p&gt;核心关注点：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;组织特征：&lt;/strong&gt; FunkSec以其独特的运作模式、对人工智能（AI）技术的运用尝试、以及与其他黑客社区的潜在复杂联系而著称。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;主要动机&lt;/strong&gt;：该组织声称主要受经济利益驱动，但其行动也显露出针对特定国家（美国、以色列、印度等）的地缘政治倾向。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;攻击模式&lt;/strong&gt;：核心采用双重勒索策略（数据窃取+文件加密），同时涉足分布式拒绝服务（DDoS）攻击和网站篡改（Defacement），展现出多样化的攻击手段。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;运作方式&lt;/strong&gt;：采用勒索软件即服务（RaaS）模式，拥有自营的暗网论坛、数据泄露网站和拍卖平台，并积极寻求与其他组织的合作（如FSociety）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;威胁演变&lt;/strong&gt;：尽管相对年轻且部分技术能力可能尚不成熟，但其快速增长的受害者数量、不断迭代的策略和不断扩展的基础设施，预示着其潜在威胁正在持续演变和扩大。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;本报告将系统性地剖析FunkSec的组织背景、行动风格（包括详细的TTPs和武器库）、法律与道德问题，并对其未来发展趋势进行预测。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/2025/05/03/%E3%80%90HackGroup%E3%80%91FunkSec-%E6%81%90%E6%85%8C%E5%AE%89%E5%85%A8/1746321526567.png&quot; alt=&quot;1746321526567&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;2-组织背景&quot;&gt;&lt;a href=&quot;#2-组织背景&quot; class=&quot;headerlink&quot; title=&quot;2 组织背景&quot;&gt;&lt;/a&gt;2 &lt;strong&gt;组织背景&lt;/strong&gt;&lt;/h1&gt;&lt;h2 id=&quot;2-1-成立原因&quot;&gt;&lt;a href=&quot;#2-1-成立原因&quot; class=&quot;headerlink&quot; title=&quot;2.1. 成立原因&quot;&gt;&lt;/a&gt;2.1. &lt;strong&gt;成立原因&lt;/strong&gt;&lt;/h2&gt;&lt;p&gt;FunkSec作为一个在2024年底迅速进入公众视野的网络犯罪组织，其核心特征与动机呈现出经济利益驱动与特定政治倾向交织的复杂图景。&lt;/p&gt;
+&lt;h3 id=&quot;2-1-1-主要动机&quot;&gt;&lt;a href=&quot;#2-1-1-主要动机&quot; class=&quot;headerlink&quot; title=&quot;2.1.1. 主要动机&quot;&gt;&lt;/a&gt;2.1.1. &lt;strong&gt;主要动机&lt;/strong&gt;&lt;/h3&gt;</summary>
+    
+    
+    
+    
+    <category term="Hackgroup" scheme="https://baixiaoyeer.github.io/tags/Hackgroup/"/>
+    
+  </entry>
   
   <entry>
     <title>【HackGroup】BlackCat-黑猫</title>
