@@ -6,7 +6,7 @@
   <link href="https://baixiaoyeer.github.io/atom.xml" rel="self"/>
   
   <link href="https://baixiaoyeer.github.io/"/>
-  <updated>2025-05-04T01:51:18.082Z</updated>
+  <updated>2025-07-02T16:15:36.354Z</updated>
   <id>https://baixiaoyeer.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【HackGroup】Team1722-1722团队</title>
+    <link href="https://baixiaoyeer.github.io/2025/06/08/%E3%80%90HackGroup%E3%80%91Team1722-1722%E5%9B%A2%E9%98%9F/"/>
+    <id>https://baixiaoyeer.github.io/2025/06/08/%E3%80%90HackGroup%E3%80%91Team1722-1722%E5%9B%A2%E9%98%9F/</id>
+    <published>2025-06-08T15:33:37.000Z</published>
+    <updated>2025-07-02T16:15:36.354Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;1-引言&quot;&gt;&lt;a href=&quot;#1-引言&quot; class=&quot;headerlink&quot; title=&quot;1 引言&quot;&gt;&lt;/a&gt;1 &lt;strong&gt;引言&lt;/strong&gt;&lt;/h1&gt;&lt;p&gt;Team 1722是2024年第四季度至2025年第一季度期间网络威胁态势中呈现显著上升态势的黑客实体，被多国权威网络安全机构联合评定为全球高危威胁行为体。据国际知名网络安全企业Cyble与Radware联合发布的《2025年第一季度全球威胁态势研究报告》显示，该组织与MrHamza、Keymous+等黑客联盟共同构成了当代黑客行动主义（Hacktivism）领域的新型威胁矩阵，其活跃指数已进入全球网络安全监测系统的重点预警范畴。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/2025/06/08/%E3%80%90HackGroup%E3%80%91Team1722-1722%E5%9B%A2%E9%98%9F/1751471473030.png&quot; alt=&quot;1751471473030&quot;&gt;&lt;/p&gt;
+&lt;p&gt;本研究报告依托开源情报（OSINT）分析方法，针对该组织的战略背景、战术特征、技术实施体系、目标筛选机制、潜在关联网络及其涉及的网络安全法理争议，进行系统化梳理与多维解析。研究过程严格遵循网络威胁情报（CTI）分析框架，致力于构建具备学术研究价值与公共传播适用性的结构化情报框架。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/2025/06/08/%E3%80%90HackGroup%E3%80%91Team1722-1722%E5%9B%A2%E9%98%9F/1751471481835.png&quot; alt=&quot;1751471481835&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;2-组织背景&quot;&gt;&lt;a href=&quot;#2-组织背景&quot; class=&quot;headerlink&quot; title=&quot;2 组织背景&quot;&gt;&lt;/a&gt;2 &lt;strong&gt;组织背景&lt;/strong&gt;&lt;/h1&gt;&lt;h2 id=&quot;2-1-成立原因与主要动机&quot;&gt;&lt;a href=&quot;#2-1-成立原因与主要动机&quot; class=&quot;headerlink&quot; title=&quot;2.1. 成立原因与主要动机&quot;&gt;&lt;/a&gt;2.1. &lt;strong&gt;成立原因与主要动机&lt;/strong&gt;&lt;/h2&gt;&lt;p&gt;Team 1722的成立时间尚未在公开领域获得确切佐证，但根据Cyble与IndustrialCyber等权威网络安全机构的追踪报告显示，该组织自2024年12月至2025年2月期间开始呈现显著活动迹象，并于2025年3月实现活跃度峰值，正式进入全球网络安全威胁监测体系的重点关注名单。&lt;/p&gt;
+&lt;p&gt;基于多源威胁情报交叉验证，Team 1722的攻击行为呈现出明确的政治动机导向特征。2025年4月15日Cyble发布的专项报告指出，该组织实施网络攻击的时序特征与地缘政治冲突周期、多国选举进程及其他国际重大事件存在高度同步性，这种战术配合模式充分印证其行动具备战略性政治宣示与全球影响力构建的双重诉求。&lt;/p&gt;
+&lt;p&gt;尽管Team 1722未对其意识形态归属进行公开声明，但通过目标地域的网格化分布与行业垂直打击特征研判，该组织存在较高概率属于具有亲巴勒斯坦倾向的反西方黑客行动主义群体。这一研判基于两点核心论据：&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="Hackgroup" scheme="https://baixiaoyeer.github.io/tags/Hackgroup/"/>
+    
+  </entry>
   
   <entry>
     <title>【HackGroup】FunkSec-恐慌安全</title>
