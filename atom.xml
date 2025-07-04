@@ -6,7 +6,7 @@
   <link href="https://baixiaoyeer.github.io/atom.xml" rel="self"/>
   
   <link href="https://baixiaoyeer.github.io/"/>
-  <updated>2025-07-02T16:15:36.354Z</updated>
+  <updated>2025-07-04T22:22:26.767Z</updated>
   <id>https://baixiaoyeer.github.io/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>【HackGroup】ScatteredSpider-散蜘蛛</title>
+    <link href="https://baixiaoyeer.github.io/2025/07/05/%E3%80%90HackGroup%E3%80%91ScatteredSpider-%E6%95%A3%E8%9C%98%E8%9B%9B/"/>
+    <id>https://baixiaoyeer.github.io/2025/07/05/%E3%80%90HackGroup%E3%80%91ScatteredSpider-%E6%95%A3%E8%9C%98%E8%9B%9B/</id>
+    <published>2025-07-04T22:12:12.000Z</published>
+    <updated>2025-07-04T22:22:26.767Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;1-引言&quot;&gt;&lt;a href=&quot;#1-引言&quot; class=&quot;headerlink&quot; title=&quot;1 引言&quot;&gt;&lt;/a&gt;1 &lt;strong&gt;引言&lt;/strong&gt;&lt;/h1&gt;&lt;p&gt;散蜘蛛（Scattered Spider，亦称为UNC3944、Star Fraud、Octo Tempest、Scatter Swine和Muddled Libra）是一个由年轻黑客构成的网络犯罪组织。自2022年5月左右成立以来，该组织已迅速崛起为全球最具威胁性的黑客组织之一。其因运用高度复杂的社会工程学技术、针对大型企业发动攻击并与勒索软件活动相关联而闻名。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/2025/07/05/%E3%80%90HackGroup%E3%80%91ScatteredSpider-%E6%95%A3%E8%9C%98%E8%9B%9B/1751667201482.png&quot; alt=&quot;1751667201482&quot;&gt;&lt;/p&gt;
+&lt;p&gt;根据美国联邦调查局（FBI）和网络安全与基础设施安全局（CISA）联合发布的网络安全公告，散落蜘蛛主要针对大型企业及其外包的信息技术服务台，通过数据窃取实施勒索，并与BlackCat/ALPHV勒索软件组织存在合作关系。本报告基于公开情报来源，旨在为学术研究及公开发布提供全面、深入且结构化的情报参考，内容涵盖对散落蜘蛛的组织背景、行动风格、攻击技术、目标选择、组织关联以及相关法律与道德问题的系统性分析。&lt;/p&gt;
+&lt;h1 id=&quot;2-组织背景&quot;&gt;&lt;a href=&quot;#2-组织背景&quot; class=&quot;headerlink&quot; title=&quot;2 组织背景&quot;&gt;&lt;/a&gt;2 &lt;strong&gt;组织背景&lt;/strong&gt;&lt;/h1&gt;&lt;h2 id=&quot;2-1-成立原因与主要动机&quot;&gt;&lt;a href=&quot;#2-1-成立原因与主要动机&quot; class=&quot;headerlink&quot; title=&quot;2.1. 成立原因与主要动机&quot;&gt;&lt;/a&gt;2.1. &lt;strong&gt;成立原因与主要动机&lt;/strong&gt;&lt;/h2&gt;&lt;p&gt;据信，Scattered Spider系于2022年5月成立，其初期活动专注于针对电信公司的攻击。根据公开情报显示，该组织的主要动机为经济利益，旨在通过数据窃取与勒索获取金钱。与众多其他黑客组织不同，Scattered Spider似乎并无明显的政治或意识形态动机，其行为纯粹由经济利益驱动。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/2025/07/05/%E3%80%90HackGroup%E3%80%91ScatteredSpider-%E6%95%A3%E8%9C%98%E8%9B%9B/1751667209708.png&quot; alt=&quot;1751667209708&quot;&gt;&lt;/p&gt;
+&lt;p&gt;该组织的攻击活动表明，其选择目标主要基于潜在的经济回报，而非政治考量。例如，其对大型赌场及博彩公司（如MGM度假村与凯撒娱乐）实施攻击时，明确要求支付数百万美元赎金。据《金融时报》报道，该组织声称对MGM度假村实施攻击之原因，系因其此前试图操纵老虎机遭发现。&lt;/p&gt;
+&lt;h2 id=&quot;2-2-组织结构与成员&quot;&gt;&lt;a href=&quot;#2-2-组织结构与成员&quot; class=&quot;headerlink&quot; title=&quot;2.2. 组织结构与成员&quot;&gt;&lt;/a&gt;2.2. &lt;strong&gt;组织结构与成员&lt;/strong&gt;&lt;/h2&gt;</summary>
+    
+    
+    
+    
+    <category term="Hackgroup" scheme="https://baixiaoyeer.github.io/tags/Hackgroup/"/>
+    
+  </entry>
+  
+  <entry>
     <title>【HackGroup】Team1722-1722团队</title>
     <link href="https://baixiaoyeer.github.io/2025/06/08/%E3%80%90HackGroup%E3%80%91Team1722-1722%E5%9B%A2%E9%98%9F/"/>
     <id>https://baixiaoyeer.github.io/2025/06/08/%E3%80%90HackGroup%E3%80%91Team1722-1722%E5%9B%A2%E9%98%9F/</id>
     <published>2025-06-08T15:33:37.000Z</published>
-    <updated>2025-07-02T16:15:36.354Z</updated>
+    <updated>2025-07-02T16:27:00.557Z</updated>
     
     
     <summary type="html">&lt;h1 id=&quot;1-引言&quot;&gt;&lt;a href=&quot;#1-引言&quot; class=&quot;headerlink&quot; title=&quot;1 引言&quot;&gt;&lt;/a&gt;1 &lt;strong&gt;引言&lt;/strong&gt;&lt;/h1&gt;&lt;p&gt;Team 1722是2024年第四季度至2025年第一季度期间网络威胁态势中呈现显著上升态势的黑客实体，被多国权威网络安全机构联合评定为全球高危威胁行为体。据国际知名网络安全企业Cyble与Radware联合发布的《2025年第一季度全球威胁态势研究报告》显示，该组织与MrHamza、Keymous+等黑客联盟共同构成了当代黑客行动主义（Hacktivism）领域的新型威胁矩阵，其活跃指数已进入全球网络安全监测系统的重点预警范畴。&lt;/p&gt;
